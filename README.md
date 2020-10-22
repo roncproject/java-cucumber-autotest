@@ -35,7 +35,9 @@ This is a basic testautomation framework built with:
     * When I create an order, I can [Confirm], but not confirming will also produce an order(!)
     * Cancelling will also produce an order (!!)
     * Even with confirming, I get back in the Order (status) screen, when I might want to go to Order list (home page)
-  * The input validation is not what I would expect given the category names ("Pass number, etc). These are dealt with in some of the tets features
-  * I cannot, when using Test automation, make the [Back] button work ..
+  * The input validation is not what I would expect given the category names ("Pass number, etc). These are dealt with in some of the test features
+  * Misc.
+    * I cannot, when using Test automation, make the [Back] button work, though it works manually.
+    * Sometimes, an empty order list is shown, when the order database is actually filled. Could not recreate reliably
   
   
