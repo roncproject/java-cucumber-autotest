@@ -6,6 +6,7 @@ This is a basic testautomation framework built with:
 * Java
 * Selenium
 * Cucumber
+* It addionally features: Page objects and Page factory 
 
 # Prerequisites
 * Java, I use OpenJDK 15 
