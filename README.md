@@ -32,8 +32,8 @@ This is a basic testautomation framework built with:
 # Remarks
 * As there are no specs delivered with the Order-service, there are no defects, only remarks
   * The navigation and functions of the app are confusing to me. 
-    * When I create an order, I can [Confirm], but confirming will also produce an order
-    * Cancelling will also produce an order (!)
+    * When I create an order, I can [Confirm], but not confirming will also produce an order(!)
+    * Cancelling will also produce an order (!!)
     * Even with confirming, I get back in the Order (status) screen, when I might want to go to Order list (home page)
   * The input validation is not what I would expect given the category names ("Pass number, etc). These are dealt with in some of the tets features
   * I cannot, when using Test automation, make the [Back] button work ..
