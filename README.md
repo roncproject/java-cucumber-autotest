@@ -28,7 +28,6 @@ This is a basic testautomation framework built with:
 # TODO
 * Obviously, make more GUI tests
 * Add API tests
-* (optional) Add some sort of reporting
 
 # Remarks
 * As there are no specs delivered with the Order-service, there are no defects, only remarks
